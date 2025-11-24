@@ -2,6 +2,10 @@
 A multi-agent Python system that generates healthy weekly meal plans and provides personalized math tutoring.  
 Built for the **Agents for Good** track of the 5-Day AI Agents Intensive (Google + Kaggle).
 
+
+### 🎥 Demo Video  
+[Watch on YouTube](https://youtube.com/watch?v=hKzVsJzJ1ZI&feature=shared)
+
 ---
 
 ## Features
